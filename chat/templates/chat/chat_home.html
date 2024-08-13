@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portafolio Inteligente Empresas - Chat</title>
+    <!-- Incluye Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        /* Estilo personalizado para el navbar */
+        .navbar-custom {
+            background-color: #ee2b7b;
+        }
+        .navbar-custom .navbar-brand,
+        .navbar-custom .nav-link,
+        .navbar-custom .nav-item .nav-link {
+            color: #ffffff;
+        }
+        .navbar-custom .nav-link:hover {
+            color: #f1f1f1;
+        }
+
+        /* Estilo para el contenedor del chat */
+        .chat-container {
+            display: flex;
+            flex-direction: column;
+            height: 70vh; /* Altura del contenedor de chat */
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            overflow: hidden;
+            background-color: #ffffff;
+        }
+
+        .chat-history {
+            flex: 1;
+            padding: 15px;
+            overflow-y: auto;
+            background-color: #f9f9f9;
+        }
+
+        .chat-input {
+            padding: 10px;
+            background-color: #eeeeee;
+            border-top: 1px solid #ddd;
+        }
+
+        .chat-input form {
+            display: flex;
+            gap: 10px;
+        }
+
+        .chat-input input[type="text"] {
+            flex: 1;
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            font-size: 16px;
+        }
+
+        .chat-input button {
+            padding: 10px 20px;
+            background-color: #ee2b7b;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        .chat-input button:hover {
+            background-color: #d22066;
+        }
+
+        .processing-message {
+            margin-top: 10px;
+            color: #ee2b7b;
+            font-weight: bold;
+            text-align: center;
+        }
+    </style>
+</head>
+<body style="background-color: #f4f4f4;">
+    <!-- Barra de navegación -->
+    <nav class="navbar navbar-expand-lg navbar-custom">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">Portafolio Inteligente Empresas</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <span class="nav-link">Bienvenido, {{ user.first_name }} {{ user.last_name }}</span>
+                    </li>
+                    <li class="nav-item">
+                        <a class="btn btn-outline-light ms-2" href="{% url 'logout' %}">Cerrar sesión</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container mt-5">
+        <div class="chat-container">
+            <!-- Historial del chat -->
+            <div class="chat-history" id="chat-history">
+                {% if messages %}
+                    <div class="messages alert alert-info">
+                        <ul class="mb-0">
+                            {% for message in messages %}
+                                <li>{{ message }}</li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                {% endif %}
+                {% for message in chat_messages %}
+                    <p><strong>{{ message.user }}:</strong> {{ message.text }}</p>
+                {% endfor %}
+            </div>
+
+            <!-- Campo de entrada del chat -->
+            <div class="chat-input">
+                <form method="POST" action="{% url 'chat_home' %}" onsubmit="disableButtonAndShowProcessing()">
+                    {% csrf_token %}
+                    <input type="text" id="id_message" name="message" placeholder="Escribe un mensaje..." required>
+                    <button type="submit" id="sendButton">Enviar</button>
+                </form>
+                <div class="processing-message" id="processingMessage" style="display:none;">
+                    Procesando...
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Incluye Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- JavaScript para deshabilitar el botón y mostrar mensaje de "Procesando..." -->
+    <script>
+        // Función para desplazar el chat al final
+        function scrollToBottom() {
+            const chatHistory = document.getElementById('chat-history');
+            chatHistory.scrollTop = chatHistory.scrollHeight;
+        }
+
+        // Desplazar al final al cargar la página
+        window.onload = scrollToBottom;
+
+        // Deshabilitar botón y mostrar mensaje de "Procesando..." al enviar
+        function disableButtonAndShowProcessing() {
+            document.getElementById('id_message').style.backgroundColor = '#B2B2B2';
+            document.getElementById('sendButton').style.backgroundColor = '#B2B2B2';
+            document.getElementById('processingMessage').style.display = 'block';
+            scrollToBottom(); // Desplazar al final después de enviar
+        }
+    </script>
+</body>
+</html>
