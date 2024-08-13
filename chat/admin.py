@@ -1,3 +1,6 @@
 from django.contrib import admin
+from .models import InitialQuestion
 
-# Register your models here.
+@admin.register(InitialQuestion)
+class InitialQuestionAdmin(admin.ModelAdmin):
+    list_display = ('question', 'options',)

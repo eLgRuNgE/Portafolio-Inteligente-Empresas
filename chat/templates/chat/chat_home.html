@@ -114,7 +114,11 @@
                     </div>
                 {% endif %}
                 {% for message in chat_messages %}
-                    <p><strong>{{ message.user }}:</strong> {{ message.text }}</p>
+                    {% if message.user == "Bot Comfama" %}
+                        <p><strong style="color: #ee2b7b;">{{ message.user }}:</strong> {{ message.text }}</p>
+                    {% else %}
+                        <p><strong>{{ message.user }}:</strong> {{ message.text }}</p>
+                    {% endif %}
                 {% endfor %}
             </div>
 
@@ -137,15 +141,21 @@
 
     <!-- JavaScript para deshabilitar el botón y mostrar mensaje de "Procesando..." -->
     <script>
+        // Mantener el foco en el input del mensaje
+        document.getElementById('id_message').focus();
+    
         // Función para desplazar el chat al final
         function scrollToBottom() {
             const chatHistory = document.getElementById('chat-history');
             chatHistory.scrollTop = chatHistory.scrollHeight;
         }
-
-        // Desplazar al final al cargar la página
-        window.onload = scrollToBottom;
-
+    
+        // Desplazar al final al cargar la página y mantener el foco en el input
+        window.onload = function() {
+            scrollToBottom();
+            document.getElementById('id_message').focus();  // Mantener el foco
+        };
+    
         // Deshabilitar botón y mostrar mensaje de "Procesando..." al enviar
         function disableButtonAndShowProcessing() {
             document.getElementById('id_message').style.backgroundColor = '#B2B2B2';
@@ -153,6 +163,13 @@
             document.getElementById('processingMessage').style.display = 'block';
             scrollToBottom(); // Desplazar al final después de enviar
         }
+    
+        // Mantener el foco después de enviar el mensaje
+        document.getElementById('sendButton').addEventListener('click', function() {
+            setTimeout(function() {
+                document.getElementById('id_message').focus();
+            }, 10);
+        });
     </script>
 </body>
 </html>
