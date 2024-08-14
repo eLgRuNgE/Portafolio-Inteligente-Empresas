@@ -130,7 +130,7 @@
                 {% endif %}
                 {% for message in chat_messages %}
                     {% if message.user == "Bot Comfama" %}
-                        <p><strong style="color: #ee2b7b;">{{ message.user }}:</strong> {{ message.text }}</p>
+                        <p><strong style="color: #ee2b7b;">{{ message.user }}:</strong> {{ message.text|safe }}</p>
                     {% else %}
                         <p><strong>{{ message.user }}:</strong> {{ message.text }}</p>
                     {% endif %}
@@ -148,6 +148,11 @@
                     Procesando...
                 </div>
             </div>
+            
+            <!-- Botón para descargar PDF si está disponible -->
+            {% if pdf_ready %}
+            <a href="{% url 'generate_pdf' %}" class="btn btn-primary mt-3" target="_blank">Descargar PDF de Recomendaciones</a>
+            {% endif %}
         </div>
     </div>
 

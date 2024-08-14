@@ -25,7 +25,7 @@ def login_view(request):
             else:
                 messages.error(request, 'Nombre de usuario o contraseña incorrectos.')
         else:
-            messages.error(request, 'Por favor corrige los errores a continuación.')
+            messages.error(request, 'Nombre de usuario o contraseña incorrectos. Por favor vuelve a intentarlo.')
     else:
         form = AuthenticationForm()
     return render(request, 'security/login.html', {'form': form})
