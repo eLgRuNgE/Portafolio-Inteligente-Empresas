@@ -57,6 +57,7 @@ THIRD_APPS = (
 
 LOCAL_APPS = (
     'chat',
+    'etl',
     'security',
 )
 

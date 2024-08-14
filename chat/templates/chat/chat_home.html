@@ -77,6 +77,13 @@
             font-weight: bold;
             text-align: center;
         }
+
+        /* Posicionamiento del botón ETL */
+        .etl-button-container {
+            position: absolute;
+            top: 80px; /* Ajustar según la altura de la barra de navegación */
+            right: 20px;
+        }
     </style>
 </head>
 <body style="background-color: #f4f4f4;">
@@ -99,6 +106,14 @@
             </div>
         </div>
     </nav>
+
+    <!-- Botón para ejecutar el ETL -->
+    <div class="etl-button-container">
+        <form action="{% url 'run_etl' %}" method="post">
+            {% csrf_token %}
+            <button type="submit" class="btn btn-outline-light ms-2" style="backgroundColor: #ee2b7b;">Ejecutar ETL</button>
+        </form>
+    </div>
 
     <div class="container mt-5">
         <div class="chat-container">

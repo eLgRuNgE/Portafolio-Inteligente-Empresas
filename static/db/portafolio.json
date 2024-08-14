@@ -1,0 +1,7004 @@
+portafolio = {
+  "productos": [
+      {
+      "CodigoSAP": 40000047,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004602,
+      "Contenido": "Cultura",
+      "producto": "Cultura - Conversatorio",
+      "Minimo": 15,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002697,
+      "Contenido": "Educacion",
+      "producto": "Alimentacion Consciente",
+      "Minimo": 14,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 42003015,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42003379,
+      "Contenido": "Educacion",
+      "producto": "Ingles general",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004106,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 15,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42001176,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Turismo",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 41000767,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42003407,
+      "Contenido": "Cultura",
+      "producto": "Lectura",
+      "Minimo": 10,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 40001649,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Todo Parque",
+      "Minimo": 4,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000115,
+      "Contenido": "Educacion",
+      "producto": "Escenarios",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002696,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Competencias organizacionales",
+      "Minimo": 16,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 42003394,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42003416,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Mercadeo y Ventas",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40000681,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Escenarios",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42000007,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001022,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Aventura Empresarial",
+      "Minimo": 21,
+      "Maximo": 26
+      },
+      {
+      "CodigoSAP": 40004309,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Peso Saludable",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42003412,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Gestion del talento humano",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 10000000,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Vacunacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40001407,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Programas Empresariales_Recreativos",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004890,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Escenarios",
+      "Minimo": 150,
+      "Maximo": 250
+      },
+      {
+      "CodigoSAP": 40004514,
+      "Contenido": "Educacion",
+      "producto": "Educacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002291,
+      "Contenido": "Educacion",
+      "producto": "Colegios",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004299,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Aventura Empresarial",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42002456,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 24,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002587,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Celebraciones empresariales",
+      "Minimo": 18,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 40001914,
+      "Contenido": "Educacion",
+      "producto": "Actividades fisico deportivas",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000122,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000340,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Capf Empresarial",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001024,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Jornada Lúdico Reflexiva",
+      "Minimo": 23,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002538,
+      "Contenido": "Educacion",
+      "producto": "Movimiento Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002550,
+      "Contenido": "Educacion",
+      "producto": "Tecnicas De Relajacion",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42000023,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000435,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Escenarios",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42002013,
+      "Contenido": "Cultura",
+      "producto": "Lectura",
+      "Minimo": 10,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 40005002,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002990,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 10,
+      "Maximo": 12
+      },
+      {
+      "CodigoSAP": 41000768,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 40004071,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Conversaciones con sabor",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 41000107,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Plan Capf",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002500,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42003026,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 41000102,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000102,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Curso desarrollo humano",
+      "Minimo": 20,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42001325,
+      "Contenido": "Educacion",
+      "producto": "Educacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002630,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Jornadas recreativas",
+      "Minimo": 19,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42002765,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Competencias organizacionales",
+      "Minimo": 15,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002881,
+      "Contenido": "Cultura",
+      "producto": "Cultura - Conversatorio",
+      "Minimo": 25,
+      "Maximo": 60
+      },
+      {
+      "CodigoSAP": 42003037,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42003448,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Torneos",
+      "Minimo": 16,
+      "Maximo": 16
+      },
+      {
+      "CodigoSAP": 40000033,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Consulta Profesional Salud",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40001422,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Curso desarrollo humano",
+      "Minimo": 2,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40004061,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Conversaciones con sabor",
+      "Minimo": 37,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 41000099,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Escuela Osteomuscular O Cardiovascular",
+      "Minimo": 4,
+      "Maximo": 12
+      },
+      {
+      "CodigoSAP": 42000033,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000724,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Taller desarrollo humano",
+      "Minimo": 20,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40004991,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40005006,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 10000031,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Vacunacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40001677,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Vacaciones Recreativas",
+      "Minimo": 15,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 42001852,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Asesoria Profesional salud",
+      "Minimo": 25,
+      "Maximo": 100
+      },
+      {
+      "CodigoSAP": 42002628,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Jornadas recreativas",
+      "Minimo": 19,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42000066,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000135,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Escenarios",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42000525,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000297,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002673,
+      "Contenido": "Educacion",
+      "producto": "Arte Manual",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42002722,
+      "Contenido": "Cultura",
+      "producto": "Lectura",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001634,
+      "Contenido": "Educacion",
+      "producto": "Tecnicas De Relajacion",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 40004633,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Programa de vigilancia epidemiologica empresas",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40001641,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Todo Parque",
+      "Minimo": 8,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004063,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Conversaciones con sabor",
+      "Minimo": 36,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42000103,
+      "Contenido": "Educacion",
+      "producto": "Escenarios",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004491,
+      "Contenido": "Educacion",
+      "producto": "Educacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002133,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Curso capitalismo consciente",
+      "Minimo": 10,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42002691,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Competencias organizacionales",
+      "Minimo": 17,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 10000034,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Vacunacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 10000163,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Vacunacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40001902,
+      "Contenido": "Educacion",
+      "producto": "Actividades fisico deportivas",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 41000111,
+      "Contenido": "Servicios Financieros",
+      "producto": "Educacion Financiera",
+      "Minimo": 10,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42000434,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Escenarios",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42002505,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002774,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Competencias organizacionales",
+      "Minimo": 15,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42003059,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40001105,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40001913,
+      "Contenido": "Educacion",
+      "producto": "Educacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40003366,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004113,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 25,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42000663,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 25,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42002561,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Escenarios",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42003126,
+      "Contenido": "Cultura",
+      "producto": "Auditorios y salones",
+      "Minimo": 5,
+      "Maximo": 60
+      },
+      {
+      "CodigoSAP": 40001107,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40002735,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Plan Capf",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40003515,
+      "Contenido": "Cultura",
+      "producto": "Con - Versar Con: (1)",
+      "Minimo": 10,
+      "Maximo": 40
+      },
+      {
+      "CodigoSAP": 42000032,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004298,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Turismo",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42002444,
+      "Contenido": "Educacion",
+      "producto": "Alimentacion Consciente",
+      "Minimo": 15,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 40004995,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002986,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42000341,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Capf Empresarial",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000180,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Todo Parque",
+      "Minimo": 4,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000166,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 16,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42002532,
+      "Contenido": "Educacion",
+      "producto": "Movimiento Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 40005018,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002785,
+      "Contenido": "Servicios Financieros",
+      "producto": "Plan Exequial",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002993,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 10,
+      "Maximo": 12
+      },
+      {
+      "CodigoSAP": 40000666,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40001409,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 15,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42000109,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Escenarios",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42000112,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Escenarios",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42000659,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 25,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42002316,
+      "Contenido": "Educacion",
+      "producto": "Educacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40005011,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40002653,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Plan Smart Fit",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001844,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Olimpiadas",
+      "Minimo": 12,
+      "Maximo": 12
+      },
+      {
+      "CodigoSAP": 42002539,
+      "Contenido": "Educacion",
+      "producto": "Movimiento Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42003423,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Mercadeo y Ventas",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40004677,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Asesoria Profesional salud",
+      "Minimo": "N/A",
+      "Maximo": 3
+      },
+      {
+      "CodigoSAP": 40004697,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Jornadas recreativas",
+      "Minimo": 24,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42003122,
+      "Contenido": "Cultura",
+      "producto": "Lectura",
+      "Minimo": 20,
+      "Maximo": 40
+      },
+      {
+      "CodigoSAP": 40004681,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Asesoria Profesional salud",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 40004891,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Escenarios",
+      "Minimo": 150,
+      "Maximo": 250
+      },
+      {
+      "CodigoSAP": 42001760,
+      "Contenido": "Cultura",
+      "producto": "Cultura - Conversatorio",
+      "Minimo": 15,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002504,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002693,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Competencias organizacionales",
+      "Minimo": 23,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40001678,
+      "Contenido": "Educacion",
+      "producto": "Convenio matricula",
+      "Minimo": 4,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000454,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001337,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Escuela Osteomuscular O Cardiovascular",
+      "Minimo": 4,
+      "Maximo": 12
+      },
+      {
+      "CodigoSAP": 42001339,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Pausas activas",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004637,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Baterias de riesgo psicosocial",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40000422,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000379,
+      "Contenido": "Educacion",
+      "producto": "Parvulos-Ji",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001352,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Pausas activas",
+      "Minimo": 10,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 40004307,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002477,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42003374,
+      "Contenido": "Cultura",
+      "producto": "Escritura",
+      "Minimo": 15,
+      "Maximo": 35
+      },
+      {
+      "CodigoSAP": 42003413,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Gestion del talento humano",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42003146,
+      "Contenido": "Educacion",
+      "producto": "Sin asignar",
+      "Minimo": "",
+      "Maximo": ""
+      },
+      {
+      "CodigoSAP": 40003252,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Caminadas Ecologicas",
+      "Minimo": 18,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42000178,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Todo Parque",
+      "Minimo": 8,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004498,
+      "Contenido": "Servicios Financieros",
+      "producto": "Educacion Financiera",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 10000329,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Vacunacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002445,
+      "Contenido": "Educacion",
+      "producto": "Alimentacion Consciente",
+      "Minimo": 15,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 42002590,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Celebraciones empresariales",
+      "Minimo": 126,
+      "Maximo": 150
+      },
+      {
+      "CodigoSAP": 10000295,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Vacunacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004203,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Programas Empresariales_Recreativos",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 41000140,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Alimentacion sana y consciente",
+      "Minimo": 10,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 40004497,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Sin asignar",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40005014,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002777,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Sostenibilidad",
+      "Minimo": 13,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": "42002784,Escuela Empresarial,\"Equidad, diversidad e inclusion\",26,30",
+      "Contenido": "",
+      "producto": "",
+      "Minimo": "",
+      "Maximo": ""
+      },
+      {
+      "CodigoSAP": 42002923,
+      "Contenido": "Cultura",
+      "producto": "Cultura - Cine Y Teatro",
+      "Minimo": 30,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002975,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42000295,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Curso Excel",
+      "Minimo": 16,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 40004650,
+      "Contenido": "Cultura",
+      "producto": "Escenarios",
+      "Minimo": 1,
+      "Maximo": 289
+      },
+      {
+      "CodigoSAP": 42001620,
+      "Contenido": "Educacion",
+      "producto": "Movimiento Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 40005022,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40000106,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000390,
+      "Contenido": "Educacion",
+      "producto": "Escenarios",
+      "Minimo": 1,
+      "Maximo": 8
+      },
+      {
+      "CodigoSAP": 40004684,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Asesoria Profesional salud",
+      "Minimo": 5,
+      "Maximo": 10
+      },
+      {
+      "CodigoSAP": 42001858,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Asesoria Profesional salud",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 40004694,
+      "Contenido": "Servicios Financieros",
+      "producto": "Otros servicios",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000137,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Escenarios",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42001615,
+      "Contenido": "Educacion",
+      "producto": "Educacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001863,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Asesoria Profesional salud",
+      "Minimo": 1,
+      "Maximo": 2
+      },
+      {
+      "CodigoSAP": 41000916,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Competencias organizacionales",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40002496,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40003382,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000105,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002075,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002501,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40005005,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40002773,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002241,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Conversaciones con sabor",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 40003184,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40003678,
+      "Contenido": "Educacion",
+      "producto": "Educacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000072,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000227,
+      "Contenido": "Educacion",
+      "producto": "Educacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002721,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Competencias organizacionales",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 10000028,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Vacunacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40000181,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Taller desarrollo humano",
+      "Minimo": 20,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42000057,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000577,
+      "Contenido": "Salud y Bienestar",
+      "producto": "SG-SST",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001009,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Conversaciones con sabor",
+      "Minimo": 37,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42001054,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 25,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42002541,
+      "Contenido": "Educacion",
+      "producto": "Movimiento Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42003070,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40003163,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Capf Empresarial",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40003469,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002530,
+      "Contenido": "Educacion",
+      "producto": "Movimiento Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 40005009,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002706,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Competencias organizacionales",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42003058,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40000105,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40003383,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000077,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001018,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Conversaciones con sabor",
+      "Minimo": 36,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42002443,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Otros servicios",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002464,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Rituales empresariales",
+      "Minimo": 36,
+      "Maximo": 40
+      },
+      {
+      "CodigoSAP": 42002506,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002668,
+      "Contenido": "Educacion",
+      "producto": "Arte Manual",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42002983,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 10000020,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Vacunacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40001399,
+      "Contenido": "Educacion",
+      "producto": "Educacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001026,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Conversaciones con sabor",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42002449,
+      "Contenido": "Educacion",
+      "producto": "Alimentacion Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002495,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004989,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002690,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Competencias organizacionales",
+      "Minimo": 16,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 40001418,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Taller desarrollo humano",
+      "Minimo": 16,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42001063,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 25,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 40004495,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002764,
+      "Contenido": "Cultura",
+      "producto": "Cultura - Conversatorio",
+      "Minimo": 5,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002872,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42003464,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Torneos",
+      "Minimo": 24,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42000488,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Caminadas Ecologicas",
+      "Minimo": 18,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42000164,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 4,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 40004552,
+      "Contenido": "Educacion",
+      "producto": "Tecnicas De Relajacion",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 40004698,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Jornadas recreativas",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 40004699,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Jornadas recreativas",
+      "Minimo": 24,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002458,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002698,
+      "Contenido": "Educacion",
+      "producto": "Alimentacion Consciente",
+      "Minimo": 14,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 40000099,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40002744,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Capf Empresarial",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40003603,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 25,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42000094,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000493,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000882,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Programas Empresariales_Recreativos",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004492,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Internos",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000466,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002459,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002580,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Celebraciones empresariales",
+      "Minimo": 117,
+      "Maximo": 150
+      },
+      {
+      "CodigoSAP": 41000763,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": 12,
+      "Maximo": 24
+      },
+      {
+      "CodigoSAP": 42002703,
+      "Contenido": "Educacion",
+      "producto": "Alimentacion Consciente",
+      "Minimo": 20,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42000658,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 25,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 40004653,
+      "Contenido": "Cultura",
+      "producto": "Escenarios",
+      "Minimo": 1,
+      "Maximo": 289
+      },
+      {
+      "CodigoSAP": 40004668,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Olimpiadas",
+      "Minimo": 24,
+      "Maximo": 24
+      },
+      {
+      "CodigoSAP": 40004683,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Asesoria Profesional salud",
+      "Minimo": "N/A",
+      "Maximo": 3
+      },
+      {
+      "CodigoSAP": 42001696,
+      "Contenido": "Servicios Financieros",
+      "producto": "Plan Exequial",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42003007,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 2,
+      "Maximo": 6
+      },
+      {
+      "CodigoSAP": 42003375,
+      "Contenido": "Educacion",
+      "producto": "Ingles general",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40000664,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000168,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 16,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42000169,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 4,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42001802,
+      "Contenido": "Educacion",
+      "producto": "Actividades fisico deportivas",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001861,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Asesoria Profesional salud",
+      "Minimo": 5,
+      "Maximo": 10
+      },
+      {
+      "CodigoSAP": 40001431,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 16,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 40003606,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 25,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42000097,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002529,
+      "Contenido": "Educacion",
+      "producto": "Movimiento Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002553,
+      "Contenido": "Educacion",
+      "producto": "Tecnicas De Relajacion",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42003466,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Torneos",
+      "Minimo": 12,
+      "Maximo": 12
+      },
+      {
+      "CodigoSAP": 40001995,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Talleres Educativos Salud",
+      "Minimo": 15,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 42000834,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 20,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42000162,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 16,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 40004667,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Olimpiadas",
+      "Minimo": 12,
+      "Maximo": 12
+      },
+      {
+      "CodigoSAP": 40001435,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 16,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 41000103,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Pausas activas",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001086,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002526,
+      "Contenido": "Educacion",
+      "producto": "Movimiento Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42003074,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40004043,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Conversaciones con sabor",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42000052,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000095,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002589,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Celebraciones empresariales",
+      "Minimo": 86,
+      "Maximo": 100
+      },
+      {
+      "CodigoSAP": 42003029,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42003471,
+      "Contenido": "Educacion",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 3,
+      "Maximo": 5
+      },
+      {
+      "CodigoSAP": 40000030,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Asesoria Profesional salud",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40003116,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Escenarios",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42000154,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Taller desarrollo humano",
+      "Minimo": 20,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42000399,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Todo Parque",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001614,
+      "Contenido": "Educacion",
+      "producto": "Educacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002531,
+      "Contenido": "Educacion",
+      "producto": "Movimiento Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 40000970,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Escenarios",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 40001073,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 41000278,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Todo Parque",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42003022,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42003129,
+      "Contenido": "Cultura",
+      "producto": "Auditorios y salones",
+      "Minimo": 50,
+      "Maximo": "Máximo: 300 personas sentadas o 600 de pie"
+      },
+      {
+      "CodigoSAP": 40000044,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40000642,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40003636,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Alimentacion sana y consciente",
+      "Minimo": 10,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42000155,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Taller desarrollo humano",
+      "Minimo": 20,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42002450,
+      "Contenido": "Educacion",
+      "producto": "Alimentacion Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002490,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002667,
+      "Contenido": "Educacion",
+      "producto": "Arte Manual",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42002707,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Competencias organizacionales",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40002372,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Todo Parque",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40003590,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Pausas activas",
+      "Minimo": 10,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 40004928,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Taller diversidad e inclusion",
+      "Minimo": 10,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42001853,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Asesoria Profesional salud",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002980,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40001440,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 4,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 40003117,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Escenarios",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42000226,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Implementos Y Otros",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000666,
+      "Contenido": "Cultura",
+      "producto": "Cultura - Cine Y Teatro",
+      "Minimo": "N/A",
+      "Maximo": 0
+      },
+      {
+      "CodigoSAP": 42002469,
+      "Contenido": "Educacion",
+      "producto": "Auditorios y salones",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40000430,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40000437,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40001994,
+      "Contenido": "Educacion",
+      "producto": "Auditorios Y Salones",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004053,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Caminadas Ecologicas",
+      "Minimo": 19,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 41000000,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Fisioteka",
+      "Minimo": 5,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42000055,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000123,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000142,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002252,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Capf empresarial",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002482,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002523,
+      "Contenido": "Educacion",
+      "producto": "Movimiento Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002965,
+      "Contenido": "Educacion",
+      "producto": "Educacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42003047,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Sin asignar",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40000076,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40001106,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000183,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Todo Parque",
+      "Minimo": 4,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002675,
+      "Contenido": "Educacion",
+      "producto": "Arte Manual",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42003393,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42000099,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001845,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Olimpiadas",
+      "Minimo": 24,
+      "Maximo": 24
+      },
+      {
+      "CodigoSAP": 42002551,
+      "Contenido": "Educacion",
+      "producto": "Tecnicas De Relajacion",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002554,
+      "Contenido": "Educacion",
+      "producto": "Tecnicas De Relajacion",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002563,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Escenarios",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": "42002781,Escuela Empresarial,\"Equidad, diversidad e inclusion\",25,50",
+      "Contenido": "",
+      "producto": "",
+      "Minimo": "",
+      "Maximo": ""
+      },
+      {
+      "CodigoSAP": 42002948,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Administracion y gerencia",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42003002,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 2,
+      "Maximo": 6
+      },
+      {
+      "CodigoSAP": 40003597,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Sueño reparador",
+      "Minimo": 10,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 40003619,
+      "Contenido": "Cultura",
+      "producto": "Cultura - Cine Y Teatro",
+      "Minimo": "N/A",
+      "Maximo": 0
+      },
+      {
+      "CodigoSAP": 40003817,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 20,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42001124,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Preven. consumo sustancias psicoactivas",
+      "Minimo": 10,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 40004781,
+      "Contenido": "Cultura",
+      "producto": "Lectura",
+      "Minimo": 10,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002483,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004997,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002695,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Competencias organizacionales",
+      "Minimo": 16,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 40002654,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Plan Smart Fit",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40003679,
+      "Contenido": "Educacion",
+      "producto": "Educacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004058,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Caminadas Ecologicas",
+      "Minimo": 20,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 41000101,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004934,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 40000052,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000223,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Implementos Y Otros",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000134,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Escenarios",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42001425,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Jornadas de Integracion",
+      "Minimo": 17,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 42003020,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40000977,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Escenarios",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 40004674,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Asesoria Profesional salud",
+      "Minimo": "N/A",
+      "Maximo": 4
+      },
+      {
+      "CodigoSAP": 42002442,
+      "Contenido": "Servicios Financieros",
+      "producto": "Vida Comfama",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002981,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42003011,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 12,
+      "Maximo": 15
+      },
+      {
+      "CodigoSAP": 40001830,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Todo Parque",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000717,
+      "Contenido": "Educacion",
+      "producto": "Educacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001873,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Jornadas recreativas",
+      "Minimo": 24,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42001854,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Asesoria Profesional salud",
+      "Minimo": "N/A",
+      "Maximo": 3
+      },
+      {
+      "CodigoSAP": 40000095,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000151,
+      "Contenido": "Educacion",
+      "producto": "Educacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000514,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001084,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002919,
+      "Contenido": "Cultura",
+      "producto": "Cultura - Cine Y Teatro",
+      "Minimo": 30,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42003021,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42003450,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Torneos",
+      "Minimo": 32,
+      "Maximo": 32
+      },
+      {
+      "CodigoSAP": 40001844,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Todo Parque",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40003850,
+      "Contenido": "Cultura",
+      "producto": "Cultura - Conversatorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001359,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Sueño reparador",
+      "Minimo": 10,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 40004528,
+      "Contenido": "Educacion",
+      "producto": "Movimiento Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42001806,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Programa de vigilancia epidemiologica empresas",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001872,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Jornadas recreativas",
+      "Minimo": 24,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 40004984,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 41000764,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": 14,
+      "Maximo": 16
+      },
+      {
+      "CodigoSAP": 42003014,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40004052,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Caminadas Ecologicas",
+      "Minimo": 19,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40004054,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Conversaciones con sabor",
+      "Minimo": 37,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42000111,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Escenarios",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42000179,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Todo Parque",
+      "Minimo": 8,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000181,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Todo Parque",
+      "Minimo": 4,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002467,
+      "Contenido": "Educacion",
+      "producto": "Auditorios y salones",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40003502,
+      "Contenido": "Salud y Bienestar",
+      "producto": "SG-SST",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004180,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002560,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Escenarios",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42002297,
+      "Contenido": "Salud y Bienestar",
+      "producto": "SG-SST",
+      "Minimo": 1,
+      "Maximo": 10
+      },
+      {
+      "CodigoSAP": 42002585,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Celebraciones empresariales",
+      "Minimo": 125,
+      "Maximo": 150
+      },
+      {
+      "CodigoSAP": 40003680,
+      "Contenido": "Educacion",
+      "producto": "Educacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000654,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 25,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42001850,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Asesoria Profesional salud",
+      "Minimo": "N/A",
+      "Maximo": 15
+      },
+      {
+      "CodigoSAP": 42002604,
+      "Contenido": "Educacion",
+      "producto": "Música",
+      "Minimo": 15,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 42002699,
+      "Contenido": "Educacion",
+      "producto": "Alimentacion Consciente",
+      "Minimo": 14,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 42003055,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40000004,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40003183,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40003264,
+      "Contenido": "Servicios Financieros",
+      "producto": "Educacion Financiera",
+      "Minimo": 10,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42000560,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004302,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001800,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Baterias de riesgo psicosocial",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002880,
+      "Contenido": "Educacion",
+      "producto": "Colegios",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40000031,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002441,
+      "Contenido": "Servicios Financieros",
+      "producto": "Vida Comfama",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002581,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Celebraciones empresariales",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42002606,
+      "Contenido": "Educacion",
+      "producto": "Lectura",
+      "Minimo": 15,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 41000769,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 40001433,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 4,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 40004490,
+      "Contenido": "Educacion",
+      "producto": "Educacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001697,
+      "Contenido": "Servicios Financieros",
+      "producto": "Plan Exequial",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002246,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Caminadas Ecologicas",
+      "Minimo": 1,
+      "Maximo": 10
+      },
+      {
+      "CodigoSAP": 42002466,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Jornadas recreativas",
+      "Minimo": 24,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002671,
+      "Contenido": "Educacion",
+      "producto": "Arte Manual",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40005000,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42003421,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Mercadeo y Ventas",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40001682,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000043,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001713,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia diversidad e inclusion",
+      "Minimo": 15,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42002240,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Conversaciones con sabor",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42003469,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Torneos",
+      "Minimo": 6,
+      "Maximo": 6
+      },
+      {
+      "CodigoSAP": 40000439,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40003263,
+      "Contenido": "Servicios Financieros",
+      "producto": "Educacion Financiera",
+      "Minimo": 1,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002961,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42003463,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Torneos",
+      "Minimo": 28,
+      "Maximo": 36
+      },
+      {
+      "CodigoSAP": 42000140,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000006,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002423,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Todo parque",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002476,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004999,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": "42002782,Escuela Empresarial,\"Equidad, diversidad e inclusion\",25,50",
+      "Contenido": "",
+      "producto": "",
+      "Minimo": "",
+      "Maximo": ""
+      },
+      {
+      "CodigoSAP": 42002994,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 10,
+      "Maximo": 12
+      },
+      {
+      "CodigoSAP": 42003408,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Gestion del talento humano",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40000027,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Fisioteka",
+      "Minimo": 5,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 40002760,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Capf Empresarial",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000058,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002680,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Plan Capf",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 10000001,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Vacunacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 10000009,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Vacunacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40000937,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40001647,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Todo Parque",
+      "Minimo": 4,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002299,
+      "Contenido": "Salud y Bienestar",
+      "producto": "SG-SST",
+      "Minimo": 51,
+      "Maximo": 200
+      },
+      {
+      "CodigoSAP": 42001349,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Capf Empresarial",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002119,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Escenarios",
+      "Minimo": 150,
+      "Maximo": 250
+      },
+      {
+      "CodigoSAP": 42002473,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002977,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42000133,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Escenarios",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42001336,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Fisioteka",
+      "Minimo": 5,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42000323,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Plan Smart Fit",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002875,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002921,
+      "Contenido": "Cultura",
+      "producto": "Cultura - Cine Y Teatro",
+      "Minimo": 30,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002995,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 10,
+      "Maximo": 12
+      },
+      {
+      "CodigoSAP": 41000913,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Competencias organizacionales",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40000974,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Escenarios",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 40003379,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": 14,
+      "Maximo": 16
+      },
+      {
+      "CodigoSAP": 42000004,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000657,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 25,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 40004493,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Programas Empresariales_Recreativos",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001805,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Programa de vigilancia epidemiologica empresas",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40003712,
+      "Contenido": "Cultura",
+      "producto": "Cultura Y Territorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000005,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004696,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Jornadas recreativas",
+      "Minimo": 24,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 41000629,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Curso desarrollo humano",
+      "Minimo": 2,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42002692,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Competencias organizacionales",
+      "Minimo": 15,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 40000006,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40000100,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40003354,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40003607,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 25,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42001185,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42003131,
+      "Contenido": "Cultura",
+      "producto": "Auditorios y salones",
+      "Minimo": 5,
+      "Maximo": 76
+      },
+      {
+      "CodigoSAP": 40004122,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 25,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42000145,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002484,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002528,
+      "Contenido": "Educacion",
+      "producto": "Movimiento Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002973,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42003411,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Gestion del talento humano",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 10000011,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Vacunacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 10000225,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Vacunacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000152,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Programas Empresariales_Recreativos",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000286,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Todo Parque",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000716,
+      "Contenido": "Educacion",
+      "producto": "Educacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000182,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Todo Parque",
+      "Minimo": 4,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004787,
+      "Contenido": "Cultura",
+      "producto": "Cultura - Cine Y Teatro",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002708,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Competencias organizacionales",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42003009,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 12,
+      "Maximo": 15
+      },
+      {
+      "CodigoSAP": 10000093,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Vacunacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40000050,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40000054,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000029,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000189,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Competencias familiares",
+      "Minimo": 4,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001847,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Conversaciones con sabor",
+      "Minimo": 23,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42003465,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Torneos",
+      "Minimo": 6,
+      "Maximo": 6
+      },
+      {
+      "CodigoSAP": 10000007,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Vacunacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004066,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Aventura Empresarial",
+      "Minimo": 17,
+      "Maximo": 26
+      },
+      {
+      "CodigoSAP": 42001874,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Jornadas recreativas",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002239,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Vacunacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004990,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40005023,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 10000013,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Vacunacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000050,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000153,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 15,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42002570,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Celebraciones empresariales",
+      "Minimo": 120,
+      "Maximo": 150
+      },
+      {
+      "CodigoSAP": 42002723,
+      "Contenido": "Cultura",
+      "producto": "Lectura",
+      "Minimo": 32,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42003390,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42000184,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Todo Parque",
+      "Minimo": 4,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000655,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 25,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42002248,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Capf Empresarial",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42003376,
+      "Contenido": "Educacion",
+      "producto": "Ingles de practica o actualizacion",
+      "Minimo": 12,
+      "Maximo": 15
+      },
+      {
+      "CodigoSAP": 40001645,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Todo Parque",
+      "Minimo": 4,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40001905,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Implementos Y Otros",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000318,
+      "Contenido": "Educacion",
+      "producto": "Educacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000336,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Plan Capf",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000141,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004519,
+      "Contenido": "Educacion",
+      "producto": "Movimiento Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42001181,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001622,
+      "Contenido": "Educacion",
+      "producto": "Movimiento Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002066,
+      "Contenido": "Cultura",
+      "producto": "Escenarios",
+      "Minimo": 10,
+      "Maximo": 250
+      },
+      {
+      "CodigoSAP": 40004515,
+      "Contenido": "Educacion",
+      "producto": "Educacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42003016,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42003027,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 41000919,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Competencias organizacionales",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 10000024,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Vacunacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002669,
+      "Contenido": "Educacion",
+      "producto": "Arte Manual",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42002684,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Plan Capf",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 41000915,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Competencias organizacionales",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42003378,
+      "Contenido": "Educacion",
+      "producto": "Ingles de practica o actualizacion",
+      "Minimo": 11,
+      "Maximo": 15
+      },
+      {
+      "CodigoSAP": 42001846,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Conversaciones con sabor",
+      "Minimo": 27,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 41000125,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Sueño reparador",
+      "Minimo": 10,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42001050,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 15,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42002479,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002557,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Celebraciones empresariales",
+      "Minimo": 17,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 42002710,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Otras boleterias",
+      "Minimo": 28,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002771,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Competencias organizacionales",
+      "Minimo": 15,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 41000918,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Competencias organizacionales",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000355,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004903,
+      "Contenido": "Servicios Financieros",
+      "producto": "Plan Exequial",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001712,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia diversidad e inclusion",
+      "Minimo": 15,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42002494,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002917,
+      "Contenido": "Cultura",
+      "producto": "Cultura - Conversatorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40002799,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Descanso dirigido",
+      "Minimo": "N/A",
+      "Maximo": 10
+      },
+      {
+      "CodigoSAP": 42001341,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Talleres Educativos Salud",
+      "Minimo": 15,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 42002720,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Competencias organizacionales",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002879,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002930,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002976,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42000228,
+      "Contenido": "Educacion",
+      "producto": "Actividades fisico deportivas",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000495,
+      "Contenido": "Servicios Financieros",
+      "producto": "Educacion Financiera",
+      "Minimo": 10,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002290,
+      "Contenido": "Educacion",
+      "producto": "Colegios",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000200,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Todo Parque",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002448,
+      "Contenido": "Educacion",
+      "producto": "Alimentacion Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002488,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002674,
+      "Contenido": "Educacion",
+      "producto": "Arte Manual",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42003032,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42003382,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Celebraciones empresariales",
+      "Minimo": 31,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 40004060,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Conversaciones con sabor",
+      "Minimo": 24,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 40004512,
+      "Contenido": "Educacion",
+      "producto": "Educacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002474,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40005019,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42003023,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40000547,
+      "Contenido": "Educacion",
+      "producto": "Escenarios",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40001414,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Taller desarrollo humano",
+      "Minimo": 20,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40004070,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Jornada Lúdico Reflexiva",
+      "Minimo": 23,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42000508,
+      "Contenido": "Educacion",
+      "producto": "Tecnicas De Relajacion",
+      "Minimo": 15,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 40004670,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Conversaciones con sabor",
+      "Minimo": 23,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 40004933,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42002502,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001221,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Actividades complementarias parques",
+      "Minimo": 75,
+      "Maximo": 200
+      },
+      {
+      "CodigoSAP": 42002245,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Caminadas Ecologicas",
+      "Minimo": 1,
+      "Maximo": 10
+      },
+      {
+      "CodigoSAP": 42002470,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002492,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40000082,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000018,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Psicologia",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000232,
+      "Contenido": "Educacion",
+      "producto": "Actividades fisico deportivas",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000522,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": 14,
+      "Maximo": 16
+      },
+      {
+      "CodigoSAP": 42000091,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004685,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Asesoria Profesional salud",
+      "Minimo": 5,
+      "Maximo": 15
+      },
+      {
+      "CodigoSAP": 40004842,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002440,
+      "Contenido": "Servicios Financieros",
+      "producto": "Vida Comfama",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002549,
+      "Contenido": "Educacion",
+      "producto": "Tecnicas De Relajacion",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002775,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Competencias organizacionales",
+      "Minimo": 15,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002978,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40001845,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Todo Parque",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004057,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Conversaciones con sabor",
+      "Minimo": 18,
+      "Maximo": 27
+      },
+      {
+      "CodigoSAP": 42000167,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 24,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42000147,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Programas Empresariales_Recreativos",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002512,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42003010,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 12,
+      "Maximo": 15
+      },
+      {
+      "CodigoSAP": 42003034,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40001640,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Turismo",
+      "Minimo": 20,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001177,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Aventura Empresarial",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42000457,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 10000335,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Vacunacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42003064,
+      "Contenido": "Cultura",
+      "producto": "Cultura - Conversatorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40002002,
+      "Contenido": "Educacion",
+      "producto": "Actividades fisico deportivas",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000354,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Capf Empresarial",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000861,
+      "Contenido": "Cultura",
+      "producto": "Cultura- Conversatorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002223,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Conversaciones con sabor",
+      "Minimo": 74,
+      "Maximo": 100
+      },
+      {
+      "CodigoSAP": 42002431,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Escenarios",
+      "Minimo": "N/A",
+      "Maximo": 40
+      },
+      {
+      "CodigoSAP": 42002447,
+      "Contenido": "Educacion",
+      "producto": "Alimentacion Consciente",
+      "Minimo": 15,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 42002679,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Plan Capf",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42003128,
+      "Contenido": "Cultura",
+      "producto": "Auditorios y salones",
+      "Minimo": 50,
+      "Maximo": "Máximo: 300 personas sentadas o 600 de pie"
+      },
+      {
+      "CodigoSAP": 42003391,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40000060,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000285,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Transporte",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001624,
+      "Contenido": "Educacion",
+      "producto": "Movimiento Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002481,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004988,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40002664,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000084,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Internos",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002497,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002540,
+      "Contenido": "Educacion",
+      "producto": "Movimiento Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42001025,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Jornada Lúdico Reflexiva",
+      "Minimo": 23,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42000322,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Plan Smart Fit",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002165,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 40004987,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002971,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42003473,
+      "Contenido": "Educacion",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 3,
+      "Maximo": 5
+      },
+      {
+      "CodigoSAP": 40001653,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Competencias familiares",
+      "Minimo": 4,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 41000119,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Pausas activas",
+      "Minimo": 10,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42000013,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001396,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004823,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42002019,
+      "Contenido": "Cultura",
+      "producto": "Cultura - Cine Y Teatro",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 41000550,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Caminadas Ecologicas",
+      "Minimo": 19,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42002682,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Plan Capf",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42002787,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42003414,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Gestion del talento humano",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 10000012,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Vacunacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40000017,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000030,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004686,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Asesoria Profesional salud",
+      "Minimo": 1,
+      "Maximo": 2
+      },
+      {
+      "CodigoSAP": 42002605,
+      "Contenido": "Educacion",
+      "producto": "Música",
+      "Minimo": 15,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 42002672,
+      "Contenido": "Educacion",
+      "producto": "Arte Manual",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42002704,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Competencias organizacionales",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": "42002783,Escuela Empresarial,\"Equidad, diversidad e inclusion\",26,30",
+      "Contenido": "",
+      "producto": "",
+      "Minimo": "",
+      "Maximo": ""
+      },
+      {
+      "CodigoSAP": 42002984,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42002999,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 10,
+      "Maximo": 12
+      },
+      {
+      "CodigoSAP": 42003000,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40000976,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Escenarios",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 40003353,
+      "Contenido": "Educacion",
+      "producto": "Tecnicas De Relajacion",
+      "Minimo": 15,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 42002163,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42002313,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Otros servicios",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002496,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002544,
+      "Contenido": "Educacion",
+      "producto": "Movimiento Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 40004982,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 24,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40005010,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 41000770,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002987,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42000096,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002521,
+      "Contenido": "Educacion",
+      "producto": "Movimiento Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002555,
+      "Contenido": "Educacion",
+      "producto": "Tecnicas De Relajacion",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002694,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Competencias organizacionales",
+      "Minimo": 23,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42003028,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 40003193,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004343,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Actividades complementarias parques",
+      "Minimo": 75,
+      "Maximo": 200
+      },
+      {
+      "CodigoSAP": 42000026,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000662,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 25,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42002586,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Celebraciones empresariales",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 10000003,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Vacunacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000022,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001007,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Caminadas Ecologicas",
+      "Minimo": 19,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42001017,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Conversaciones con sabor",
+      "Minimo": 23,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002317,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002681,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Plan Capf",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 40000435,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004068,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Jornada Lúdico Reflexiva",
+      "Minimo": 23,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42001711,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia diversidad e inclusion",
+      "Minimo": 15,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42001323,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Internos",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002522,
+      "Contenido": "Educacion",
+      "producto": "Movimiento Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002600,
+      "Contenido": "Educacion",
+      "producto": "Danza y baile",
+      "Minimo": 20,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42002972,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42003049,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Jornadas Recreativas",
+      "Minimo": 13,
+      "Maximo": 15
+      },
+      {
+      "CodigoSAP": 42003060,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Jornadas Recreativas",
+      "Minimo": 22,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42000101,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Taller desarrollo humano",
+      "Minimo": 20,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42000860,
+      "Contenido": "Cultura",
+      "producto": "Cultura - Conversatorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000192,
+      "Contenido": "Educacion",
+      "producto": "Convenio matricula",
+      "Minimo": 4,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001015,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Conversaciones con sabor",
+      "Minimo": 24,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42001856,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Asesoria Profesional salud",
+      "Minimo": "N/A",
+      "Maximo": 2
+      },
+      {
+      "CodigoSAP": 42002588,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Celebraciones empresariales",
+      "Minimo": 43,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42002603,
+      "Contenido": "Educacion",
+      "producto": "Teatro",
+      "Minimo": 15,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 42002873,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002992,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 10,
+      "Maximo": 12
+      },
+      {
+      "CodigoSAP": 42000071,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001395,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Vacunacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002583,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Celebraciones empresariales",
+      "Minimo": 41,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 40005004,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002989,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 10,
+      "Maximo": 12
+      },
+      {
+      "CodigoSAP": 42003031,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42003036,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42003125,
+      "Contenido": "Cultura",
+      "producto": "Auditorios y salones",
+      "Minimo": 5,
+      "Maximo": 60
+      },
+      {
+      "CodigoSAP": 42003435,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 40000446,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Curso desarrollo humano",
+      "Minimo": 20,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40003681,
+      "Contenido": "Educacion",
+      "producto": "Educacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004059,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Caminadas Ecologicas",
+      "Minimo": 41,
+      "Maximo": 80
+      },
+      {
+      "CodigoSAP": 42002611,
+      "Contenido": "Educacion",
+      "producto": "Arte Manual",
+      "Minimo": 15,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 40004998,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002770,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Competencias organizacionales",
+      "Minimo": 15,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 40000872,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000068,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001013,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Caminadas Ecologicas",
+      "Minimo": 20,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42001830,
+      "Contenido": "Cultura",
+      "producto": "Escenarios",
+      "Minimo": 1,
+      "Maximo": 289
+      },
+      {
+      "CodigoSAP": 40004513,
+      "Contenido": "Educacion",
+      "producto": "Educacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42003472,
+      "Contenido": "Educacion",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 3,
+      "Maximo": 5
+      },
+      {
+      "CodigoSAP": 40000085,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40001108,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 41000104,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Plan Capf",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000230,
+      "Contenido": "Educacion",
+      "producto": "Auditorios Y Salones",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001618,
+      "Contenido": "Educacion",
+      "producto": "Movimiento Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 40000029,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Escuela Osteomuscular O Cardiovascular",
+      "Minimo": 4,
+      "Maximo": 12
+      },
+      {
+      "CodigoSAP": 40000429,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 10000285,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Vacunacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 41000098,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Asesoria Profesional salud",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 41000279,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Todo Parque",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000197,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Taller desarrollo humano",
+      "Minimo": 20,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42000224,
+      "Contenido": "Educacion",
+      "producto": "Actividades fisico deportivas",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002520,
+      "Contenido": "Educacion",
+      "producto": "Movimiento Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002602,
+      "Contenido": "Educacion",
+      "producto": "Teatro",
+      "Minimo": 15,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 41000766,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40001417,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Taller desarrollo humano",
+      "Minimo": 8,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42000161,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Curso desarrollo humano",
+      "Minimo": 2,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42002222,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Aventura Empresarial",
+      "Minimo": 4,
+      "Maximo": 4
+      },
+      {
+      "CodigoSAP": 40000735,
+      "Contenido": "Educacion",
+      "producto": "Escenarios",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000144,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001083,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002242,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Olimpiadas",
+      "Minimo": 1,
+      "Maximo": 8
+      },
+      {
+      "CodigoSAP": 40004834,
+      "Contenido": "Cultura",
+      "producto": "Escenarios",
+      "Minimo": 10,
+      "Maximo": 250
+      },
+      {
+      "CodigoSAP": 40005003,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002884,
+      "Contenido": "Cultura",
+      "producto": "Cultura - Conversatorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002922,
+      "Contenido": "Cultura",
+      "producto": "Cultura - Cine Y Teatro",
+      "Minimo": 30,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42003025,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40001110,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000083,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Taller desarrollo humano",
+      "Minimo": 20,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42000517,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Plan Smart Fit",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004494,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40000431,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002164,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42001327,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002298,
+      "Contenido": "Salud y Bienestar",
+      "producto": "SG-SST",
+      "Minimo": 11,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42002573,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Celebraciones empresariales",
+      "Minimo": 34,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42003132,
+      "Contenido": "Cultura",
+      "producto": "Auditorios y salones",
+      "Minimo": 5,
+      "Maximo": 76
+      },
+      {
+      "CodigoSAP": 40000093,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40000445,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Taller desarrollo humano",
+      "Minimo": 20,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42000014,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Consulta Profesional Salud",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000526,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 41000944,
+      "Contenido": "Cultura",
+      "producto": "Cultura - Cine Y Teatro",
+      "Minimo": 30,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42003005,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 2,
+      "Maximo": 6
+      },
+      {
+      "CodigoSAP": 40004067,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Aventura Empresarial",
+      "Minimo": 21,
+      "Maximo": 26
+      },
+      {
+      "CodigoSAP": 42001478,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia diversidad e inclusion",
+      "Minimo": 15,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 40005012,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42003127,
+      "Contenido": "Cultura",
+      "producto": "Auditorios y salones",
+      "Minimo": 5,
+      "Maximo": 60
+      },
+      {
+      "CodigoSAP": 42003133,
+      "Contenido": "Cultura",
+      "producto": "Auditorios y salones",
+      "Minimo": 5,
+      "Maximo": 76
+      },
+      {
+      "CodigoSAP": 40002286,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Transporte",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40002339,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Curso Excel",
+      "Minimo": 16,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 42001021,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Aventura Empresarial",
+      "Minimo": 17,
+      "Maximo": 26
+      },
+      {
+      "CodigoSAP": 42002229,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Conversaciones con sabor",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42002536,
+      "Contenido": "Educacion",
+      "producto": "Movimiento Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002610,
+      "Contenido": "Educacion",
+      "producto": "Arte Manual",
+      "Minimo": 15,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 42002772,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Competencias organizacionales",
+      "Minimo": 15,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42003072,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40001182,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Programas Empresariales_Recreativos",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000494,
+      "Contenido": "Servicios Financieros",
+      "producto": "Educacion Financiera",
+      "Minimo": 1,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002498,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40000107,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40001648,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Todo Parque",
+      "Minimo": 4,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40002882,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Todo Parque",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40003609,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 25,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 40004062,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Conversaciones con sabor",
+      "Minimo": 23,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42000327,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002468,
+      "Contenido": "Educacion",
+      "producto": "Auditorios y salones",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002546,
+      "Contenido": "Educacion",
+      "producto": "Movimiento Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002882,
+      "Contenido": "Cultura",
+      "producto": "Cultura - Conversatorio",
+      "Minimo": 25,
+      "Maximo": 60
+      },
+      {
+      "CodigoSAP": 42002960,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40001843,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Todo Parque",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000015,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Peso Saludable",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000324,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Plan Smart Fit",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000194,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002221,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Transporte",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002318,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001326,
+      "Contenido": "Educacion",
+      "producto": "Educacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002486,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002885,
+      "Contenido": "Cultura",
+      "producto": "Lectura",
+      "Minimo": 15,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42003046,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Sin asignar",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40000043,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40000074,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40002855,
+      "Contenido": "Educacion",
+      "producto": "Escenarios",
+      "Minimo": 1,
+      "Maximo": 8
+      },
+      {
+      "CodigoSAP": 42000718,
+      "Contenido": "Educacion",
+      "producto": "Educacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000743,
+      "Contenido": "Cultura",
+      "producto": "Cultura- Conversatorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002478,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002533,
+      "Contenido": "Educacion",
+      "producto": "Movimiento Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 40004986,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002991,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 10,
+      "Maximo": 12
+      },
+      {
+      "CodigoSAP": 42003045,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Sin asignar",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42003073,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42003422,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Mercadeo y Ventas",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40005007,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002686,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Plan Capf",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42002883,
+      "Contenido": "Cultura",
+      "producto": "Cultura - Conversatorio",
+      "Minimo": 25,
+      "Maximo": 60
+      },
+      {
+      "CodigoSAP": 40003601,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 25,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 40004182,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000079,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000715,
+      "Contenido": "Educacion",
+      "producto": "Educacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000136,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Escenarios",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42001187,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Peso Saludable",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002156,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Taller diversidad e inclusion",
+      "Minimo": 10,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42001324,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Programas Empresariales_Recreativos",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002773,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Competencias organizacionales",
+      "Minimo": 15,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 40000051,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40003364,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000106,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002188,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Curso diversidad e inclusion",
+      "Minimo": 15,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002629,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Jornadas recreativas",
+      "Minimo": 19,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40001642,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Todo Parque",
+      "Minimo": 8,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40003784,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Psicologia",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 40004669,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Conversaciones con sabor",
+      "Minimo": 27,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 40004992,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42003061,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Jornadas Recreativas",
+      "Minimo": 22,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 10000032,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Vacunacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40000196,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Internos",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40000972,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Escenarios",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42001608,
+      "Contenido": "Educacion",
+      "producto": "Licencia",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42001629,
+      "Contenido": "Educacion",
+      "producto": "Movimiento Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002319,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Programas Empresariales_Recreativos",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002236,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Capf empresarial",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002524,
+      "Contenido": "Educacion",
+      "producto": "Movimiento Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42000078,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000335,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Plan Capf",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001875,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Jornadas recreativas",
+      "Minimo": 24,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 40005016,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 41000762,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42003024,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40004109,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 15,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42000458,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002577,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Celebraciones empresariales",
+      "Minimo": 17,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 40004994,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002982,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42003396,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42003194,
+      "Contenido": "Educacion",
+      "producto": "Sin asignar",
+      "Minimo": "",
+      "Maximo": ""
+      },
+      {
+      "CodigoSAP": 40000682,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Escenarios",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42001008,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Caminadas Ecologicas",
+      "Minimo": 19,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42001653,
+      "Contenido": "Educacion",
+      "producto": "Tecnicas De Relajacion",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002118,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Escenarios",
+      "Minimo": 150,
+      "Maximo": 250
+      },
+      {
+      "CodigoSAP": 10000328,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Vacunacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002471,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002489,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002612,
+      "Contenido": "Educacion",
+      "producto": "Fotografia",
+      "Minimo": 15,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 42003019,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42003468,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Torneos",
+      "Minimo": 19,
+      "Maximo": 24
+      },
+      {
+      "CodigoSAP": 42001329,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Sin asignar",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002535,
+      "Contenido": "Educacion",
+      "producto": "Movimiento Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002988,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42003003,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 2,
+      "Maximo": 6
+      },
+      {
+      "CodigoSAP": 42003449,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Torneos",
+      "Minimo": 32,
+      "Maximo": 32
+      },
+      {
+      "CodigoSAP": 40000062,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000143,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004518,
+      "Contenido": "Educacion",
+      "producto": "Movimiento Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 40004935,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42001765,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Instrumentos de valoracion y pruebas",
+      "Minimo": 100,
+      "Maximo": "Ver ficha"
+      },
+      {
+      "CodigoSAP": 42002934,
+      "Contenido": "Cultura",
+      "producto": "Cultura - Conversatorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40003714,
+      "Contenido": "Cultura",
+      "producto": "Lectura",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001106,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Programas Empresariales_Recreativos",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004347,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Actividades complementarias parques",
+      "Minimo": 23,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002548,
+      "Contenido": "Educacion",
+      "producto": "Tecnicas De Relajacion",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002572,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Celebraciones empresariales",
+      "Minimo": 17,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 42003392,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40004638,
+      "Contenido": "Educacion",
+      "producto": "Actividades fisico deportivas",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001860,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Asesoria Profesional salud",
+      "Minimo": "N/A",
+      "Maximo": 3
+      },
+      {
+      "CodigoSAP": 42002511,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002465,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Rituales empresariales",
+      "Minimo": 36,
+      "Maximo": 40
+      },
+      {
+      "CodigoSAP": 42002979,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40000048,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000202,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Todo Parque",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002534,
+      "Contenido": "Educacion",
+      "producto": "Movimiento Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002997,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 10,
+      "Maximo": 12
+      },
+      {
+      "CodigoSAP": 42003124,
+      "Contenido": "Cultura",
+      "producto": "Lectura",
+      "Minimo": 20,
+      "Maximo": 40
+      },
+      {
+      "CodigoSAP": 42003467,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Torneos",
+      "Minimo": 19,
+      "Maximo": 24
+      },
+      {
+      "CodigoSAP": 42000201,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Todo Parque",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004533,
+      "Contenido": "Educacion",
+      "producto": "Tecnicas De Relajacion",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002565,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Escenarios",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 40005001,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002709,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Competencias organizacionales",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42003385,
+      "Contenido": "Educacion",
+      "producto": "Educacion",
+      "Minimo": 1,
+      "Maximo": 90
+      },
+      {
+      "CodigoSAP": 40001790,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Taller desarrollo humano",
+      "Minimo": 20,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40004183,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000159,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Taller desarrollo humano",
+      "Minimo": 4,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42002117,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Escenarios",
+      "Minimo": 150,
+      "Maximo": 250
+      },
+      {
+      "CodigoSAP": 40004993,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002786,
+      "Contenido": "Servicios Financieros",
+      "producto": "Plan Exequial",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42003013,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 12,
+      "Maximo": 15
+      },
+      {
+      "CodigoSAP": 42003380,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Celebraciones empresariales",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 40000104,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40000423,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40002419,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Curso Excel",
+      "Minimo": 16,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 40003604,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 25,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 41000109,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Descanso dirigido",
+      "Minimo": "N/A",
+      "Maximo": 10
+      },
+      {
+      "CodigoSAP": 42000146,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004303,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004521,
+      "Contenido": "Educacion",
+      "producto": "Movimiento Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42001619,
+      "Contenido": "Educacion",
+      "producto": "Movimiento Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42003038,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40002733,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Plan Capf",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004103,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 15,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 41000095,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Asesoria Profesional salud",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000170,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 20,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42002491,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 41000461,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Conversaciones con sabor",
+      "Minimo": 37,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 41000943,
+      "Contenido": "Cultura",
+      "producto": "Cultura - Cine Y Teatro",
+      "Minimo": 30,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40000078,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40001419,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Taller desarrollo humano",
+      "Minimo": 4,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 41000105,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Plan Capf",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000714,
+      "Contenido": "Educacion",
+      "producto": "Educacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004310,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Capf Empresarial",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002315,
+      "Contenido": "Educacion",
+      "producto": "Educacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 10000005,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Vacunacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40001992,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Programas Empresariales_Recreativos",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000199,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Todo Parque",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000229,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Programas Empresariales_Recreativos",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001108,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Psicologia",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42002510,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002226,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Conversaciones con sabor",
+      "Minimo": 112,
+      "Maximo": 150
+      },
+      {
+      "CodigoSAP": 42002446,
+      "Contenido": "Educacion",
+      "producto": "Alimentacion Consciente",
+      "Minimo": 15,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 42002475,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002485,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002487,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002711,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Otras boleterias",
+      "Minimo": 45,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42003406,
+      "Contenido": "Cultura",
+      "producto": "Cultura - Exposiciones Artisticas",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 10000006,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Vacunacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000744,
+      "Contenido": "Cultura",
+      "producto": "Lectura",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001057,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 25,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42002314,
+      "Contenido": "Educacion",
+      "producto": "Educacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002493,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002576,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Celebraciones empresariales",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42002579,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Celebraciones empresariales",
+      "Minimo": 79,
+      "Maximo": 100
+      },
+      {
+      "CodigoSAP": 40004985,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40000056,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001770,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia administracion",
+      "Minimo": 15,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42002578,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Celebraciones empresariales",
+      "Minimo": 42,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 40000034,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Peso Saludable",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40001434,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 8,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 40001644,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Todo Parque",
+      "Minimo": 4,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40003181,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 41000096,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Asesoria Profesional salud",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000093,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000185,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Todo Parque",
+      "Minimo": 4,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000302,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Escenarios",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42001827,
+      "Contenido": "Cultura",
+      "producto": "Escenarios",
+      "Minimo": 1,
+      "Maximo": 289
+      },
+      {
+      "CodigoSAP": 42002460,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Rituales empresariales",
+      "Minimo": 36,
+      "Maximo": 40
+      },
+      {
+      "CodigoSAP": 42002542,
+      "Contenido": "Educacion",
+      "producto": "Movimiento Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 41000917,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Competencias organizacionales",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40000871,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40001643,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Todo Parque",
+      "Minimo": 4,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40002736,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Plan Capf",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000512,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42003006,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 2,
+      "Maximo": 6
+      },
+      {
+      "CodigoSAP": 40000009,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004179,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000501,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Programas Empresariales_Recreativos",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002472,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002527,
+      "Contenido": "Educacion",
+      "producto": "Movimiento Consciente",
+      "Minimo": 25,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 40005020,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": "42002779,Escuela Empresarial,\"Equidad, diversidad e inclusion\",25,50",
+      "Contenido": "",
+      "producto": "",
+      "Minimo": "",
+      "Maximo": ""
+      },
+      {
+      "CodigoSAP": 41000912,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Competencias organizacionales",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40000680,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Escenarios",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 40002495,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Transporte",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000281,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Curso Excel",
+      "Minimo": 16,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 42002157,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Taller diversidad e inclusion",
+      "Minimo": 10,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002601,
+      "Contenido": "Educacion",
+      "producto": "Teatro",
+      "Minimo": 15,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 42003397,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40000424,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40002745,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Capf Empresarial",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40002800,
+      "Contenido": "Educacion",
+      "producto": "Parvulos-Ji",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000107,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42000163,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 20,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42002766,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Competencias organizacionales",
+      "Minimo": 15,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42003056,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 41000548,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Caminadas Ecologicas",
+      "Minimo": 18,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42002685,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Plan Capf",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42003044,
+      "Contenido": "Educacion",
+      "producto": "Sin asignar",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42003381,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Celebraciones empresariales",
+      "Minimo": 21,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 40001109,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001023,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Jornada Lúdico Reflexiva",
+      "Minimo": 23,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42003043,
+      "Contenido": "Educacion",
+      "producto": "Sin asignar",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42003415,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Gestion del talento humano",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40000046,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40001646,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Todo Parque",
+      "Minimo": 4,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40002505,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Escenarios",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42002574,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Celebraciones empresariales",
+      "Minimo": 66,
+      "Maximo": 100
+      },
+      {
+      "CodigoSAP": 42002676,
+      "Contenido": "Educacion",
+      "producto": "Arte Manual",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42002683,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Plan Capf",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42003030,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 42003042,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Sin asignar",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004181,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 41000100,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 41000310,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Todo Parque",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001045,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 15,
+      "Maximo": 50
+      },
+      {
+      "CodigoSAP": 42001225,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Actividades complementarias parques",
+      "Minimo": 23,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42002564,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Escenarios",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42002480,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002607,
+      "Contenido": "Educacion",
+      "producto": "Lectura",
+      "Minimo": 15,
+      "Maximo": 20
+      },
+      {
+      "CodigoSAP": 42002974,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Destrezas para el trabajo",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40002366,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Transporte",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40003380,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": 12,
+      "Maximo": 24
+      },
+      {
+      "CodigoSAP": 40003713,
+      "Contenido": "Cultura",
+      "producto": "Cultura- Conversatorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42001321,
+      "Contenido": "Servicios Financieros",
+      "producto": "Educacion Financiera",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 42002670,
+      "Contenido": "Educacion",
+      "producto": "Arte Manual",
+      "Minimo": 15,
+      "Maximo": 25
+      },
+      {
+      "CodigoSAP": 40005013,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002918,
+      "Contenido": "Cultura",
+      "producto": "Cultura - Cine Y Teatro",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002877,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Alimentacion",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40000098,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Examenes de laboratorio",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40004069,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Jornada Lúdico Reflexiva",
+      "Minimo": 23,
+      "Maximo": 30
+      },
+      {
+      "CodigoSAP": 42000509,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Cita medica ocupacional",
+      "Minimo": "N/A",
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 42002451,
+      "Contenido": "Viaje y Recreacion",
+      "producto": "Todo parque",
+      "Minimo": 1,
+      "Maximo": 1
+      },
+      {
+      "CodigoSAP": 40004983,
+      "Contenido": "Salud y Bienestar",
+      "producto": "Salud - ley 21 atencion empresas",
+      "Minimo": 1,
+      "Maximo": "N/A"
+      },
+      {
+      "CodigoSAP": 40002072,
+      "Contenido": "Escuela Empresarial",
+      "producto": "Conferencia desarrollo humano",
+      "Minimo": 15,
+      "Maximo": 50
+      }
+  ]
+}

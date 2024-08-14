@@ -6,6 +6,7 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('login/', include('security.urls')),
     path('chat/', include('chat.urls')),
+    path('etl/', include('etl.urls')),
     path('', home_redirect, name='home'),
 ]
 
